@@ -1,2 +1,2 @@
 # Shareboard
-A simple information sharing paltform in PHP
+A simple information sharing platform in PHP
